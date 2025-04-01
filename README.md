@@ -41,7 +41,7 @@ README.md – Project summary and setup instructions.
 
 📌 Built with: Microsoft Excel (Pivot Tables, Charts, Slicers)
 
-🔗 Live Preview (if applicable): [Add link if hosted]
+🔗 Live Preview (Download Recommended): https://1drv.ms/x/c/c46b2baeea9d9055/EdLZVFJyPHdAgbmxsYT_YA4BxVG2GGmp1ScUMYACsdX3pA
 
 📢 Let's Connect!
 
