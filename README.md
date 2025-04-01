@@ -42,3 +42,11 @@ README.md – Project summary and setup instructions.
 📌 Built with: Microsoft Excel (Pivot Tables, Charts, Slicers)
 
 🔗 Live Preview (if applicable): [Add link if hosted]
+
+📢 Let's Connect!
+
+If you have any suggestions, improvements, or want to collaborate on similar projects, feel free to connect! 🚀
+
+🔗 GitHub Profile:https://github.com/nikhiltake
+
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
